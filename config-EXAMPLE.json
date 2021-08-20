@@ -1,0 +1,13 @@
+{
+  "API": {
+    "API_KEY": "api_key",
+    "API_SECRET": "api_secret"
+  },
+  "SQL": {
+    "HOST": "host",
+    "USER": "user",
+    "PASS": "password",
+    "DATABASE": "database"
+  },
+  "DISCORD_KEY": "BOT-TOKEN"
+}
